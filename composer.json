@@ -1,6 +1,6 @@
 {
-    "name": "rareloop/wp-cookie-banner",
-    "description": "Provides an obnoxious cookie warning",
+    "name": "rareloop/wp-varnish-invalidator",
+    "description": "Invalidates objects from a Varnish Cache",
     "type": "wordpress-plugin",
     "authors": [
         {
